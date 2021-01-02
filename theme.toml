@@ -1,0 +1,15 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
+name = "loose"
+license = "MIT"
+licenselink = "https://github.com/libla/hugo-theme-loose/blob/master/LICENSE"
+description = "loose is a feature-rich and highly customizable hugo theme."
+homepage = "https://github.com/libla/hugo-theme-loose"
+tags = ["blog", "Responsive", "Simple", "Personal", "Light", "Dark", "Mobile", "Fast", "Disqus", "Google analytics", "Syntax highlighting", "Highlighting", "Multilingual", "Modern", "Font awesome", "Fontawesome", "Documentation", "Docs", "Seo", "accessible"]
+features = ["Blog", "Responsive", "Documentation", "Light", "Dark"]
+min_version = "0.1.0"
+
+[author]
+  name = "libla"
+  homepage = "https://libla.me"

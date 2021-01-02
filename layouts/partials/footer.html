@@ -1,0 +1,5 @@
+{{ with .Site.Copyright }}
+<div class="text-center p-6 pin-b">
+    <p class="text-sm text-tertiary-text">{{ replace . "{now}" now.Year | safeHTML }}</p>
+</div>
+{{ end }}
